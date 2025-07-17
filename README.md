@@ -1,12 +1,26 @@
-# React + Vite
+# 🧩 StoryFlow – Online Project Storyboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**StoryFlow** is a collaborative task tracking platform that helps teams visualize, manage, and update tasks on a project through an intuitive storyboard interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 📋 **Task Management Board** – Add, update, and view project tasks in real-time.
+- ✅ **Email Authentication** – Secure sign-up and login using email verification.
+- 🔗 **Invite by Link/Code** – Team members can join a project using a unique URL or code.
+- 💬 **Update Timeline** – View history of task updates by team members.
+- 📱 **Responsive UI** – Clean interface optimized for all devices.
+- ⚙️ **Tech Stack**:
+  - Frontend: React.js, Tailwind CSS
+  - Backend: Node.js, Express.js (or Firebase)
+  - Authentication: Firebase Auth or custom email verification system
+  - Database: MongoDB or Firebase Realtime DB
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📷 Screenshots (coming soon)
+_Add images or screen recordings to showcase UI and flow._
+
+
+
